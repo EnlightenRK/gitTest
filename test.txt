@@ -1,4 +1,4 @@
 hello world abc
 this is second line 
-master line
-
+this is line and simple
+idea test
